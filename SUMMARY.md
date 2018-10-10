@@ -1,4 +1,3 @@
-# Table of contents
+# Mục lục
 
-* [README](README.md)
-
+* [Lời nói đầu](foreword.md)
